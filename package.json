@@ -13,7 +13,9 @@
     "images"
   ],
   "author": "Pentiado",
+  "contributors": ["Gyuri <gyuri@euedge.com> https://github.com/dyuri"],
   "license": "MIT",
+  "main": "./release/angular-lazy-img.js",
   "bugs": {
     "url": "https://github.com/Pentiado/angular-lazy-img/issues"
   },
